@@ -25,7 +25,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Step 1 Create VMs and configure NSGs
+- Step 2 Install Wireshark on a VM
+- Step 3 Generate network traffic between VMs
+- Step 4 Capture and analyze traffic in Wireshark, observing the impact of NSG rules
